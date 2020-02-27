@@ -11,5 +11,4 @@ public class GoodsDaoImpl implements IGoodsDao {
     public void update() {
         System.out.println("goodsDao 更新操作...");
     }
-
 }
